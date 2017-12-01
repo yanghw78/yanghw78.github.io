@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/main.css"],"names":[],"mappings":"AAAA,EAAE,SAAU,SAAU,CACtB,UAAU,iBAAmB,CAC7B,EAAE,oBAAsB,CACxB,QAAQ,WAAY","file":"static/css/main.75866ab6.css","sourcesContent":["*{margin: 0;padding: 0}\r\nhtml,body{overflow-x: hidden;}\r\na{text-decoration: none;}\r\n.line60{height: 60px}\n\n\n// WEBPACK FOOTER //\n// ./src/css/main.css"],"sourceRoot":""}
